@@ -101,10 +101,10 @@ enhanced-agentic-rag/
 ├── enhanced_run.py              # System launcher
 ├── .env                         # Environment variables
 ├── requirements.txt             # Python dependencies
-├── hoanghamobile.csv           # Product database
-├── mles-class-12c1216b7303.json # Google Sheets credentials
-├── db/                         # Vector database
-└── ENHANCED_README.md          # Detailed documentation
+├── data.csv                     # Product database
+├── file_name.json               # Google Sheets credentials
+├── db/                          # Vector database
+└── README.md                    # Detailed documentation
 ```
 
 ## 🔧 Chi Tiết Kỹ Thuật
@@ -380,5 +380,3 @@ System:
 ---
 
 **Enhanced Agentic RAG System 2.0** - Powered by Google Gemini 2.0 Flash with advanced reasoning capabilities.
-
-*Created with ❤️ for intelligent conversational AI*
