@@ -66,6 +66,12 @@ GEMINI_API_KEY=your_gemini_api_key_here
 # Optional: SerpAPI for internet search
 SERPAPI_KEY=your_serpapi_key_here
 
+# Data Path
+DATA_FILE=data_file
+
+# Credential File
+GOOGLE_SHEETS_CREDENTIAL_FILE=file_name.josn
+
 # System Configuration
 MAX_ITERATIONS=3
 ENABLE_INTERNET_SEARCH=True
